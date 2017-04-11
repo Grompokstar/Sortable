@@ -1,5 +1,5 @@
 {
-  "name": "sortablejs",
+  "name": "fix-sortablejs",
   "exportName": "Sortable",
   "version": "1.5.1",
   "devDependencies": {
