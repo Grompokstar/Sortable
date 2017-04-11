@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Grompokstar/Sortable.git#fix-sticking-scroll"
+    "url": "git://github.com/rubaxa/Sortable.git"
   },
   "files": [
     "Sortable.js",
