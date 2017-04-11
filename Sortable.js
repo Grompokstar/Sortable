@@ -111,6 +111,8 @@
 					scrollOffsetY
 				;
 
+				console.log('fix');
+
 				// Delect scrollEl
 				if (scrollParentEl !== rootEl) {
 					scrollEl = options.scroll;
